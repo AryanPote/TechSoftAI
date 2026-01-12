@@ -125,7 +125,18 @@ body {
   font-size: 52px;
   font-weight: 700;
   margin-bottom: 20px;
+
+  /* Vibrant gradient text */
+  background: linear-gradient(135deg, #2563eb, #06b6d4, #14b8a6);
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* Fallback */
+  background-clip: text;
+  color: transparent;
 }
+
 
 .hero p {
   font-size: 18px;
