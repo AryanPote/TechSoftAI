@@ -70,7 +70,7 @@ body {
 }
 
 .btn-enquire {
-  background: linear-gradient(135deg, #6366f1, #4f46e5);
+  background: linear-gradient(135deg, #3c82f6 0%, #00249c 100%);
   color: #fff;
   padding: 10px 20px;
   border-radius: 6px;
@@ -127,7 +127,7 @@ body {
   margin-bottom: 20px;
 
   /* Vibrant gradient text */
-  background: linear-gradient(135deg, #2563eb, #06b6d4, #14b8a6);
+  background: linear-gradient(135deg, #3c82f6 0%, #00249c 100%);
 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -152,7 +152,7 @@ body {
 
 /* ===== BUTTONS ===== */
 .btn-primary {
-  background: linear-gradient(135deg, #6366f1, #4f46e5);
+  background: linear-gradient(135deg, #3c82f6 0%, #00249c 100%);
   color: #fff;
   padding: 12px 24px;
   border-radius: 8px;
